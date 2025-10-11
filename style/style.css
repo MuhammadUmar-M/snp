@@ -1,0 +1,151 @@
+html {
+    font-size: 62.5%;
+}
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --red: #ed1c24;
+  --grey: #1d1d1d;
+}
+.mlogo {
+    width: 165px;
+    margin: 10px;
+}
+nav > a {
+    font-size: 1.8rem;
+    color: #ffffff;
+    text-decoration: none;
+}
+.fbtn {
+    border: 1px solid #ffffff;
+    background-color: transparent;
+    color: #ffffff;
+    padding: 15px 20px;
+    border-radius: 30px;
+}
+.obtn {
+    border: 0px;
+    background-color: #ed1c24;
+    color: #ffffff;
+    padding: 15px 20px;
+    border-radius: 30px;
+}
+.m-img {
+    width: 100%;
+}
+.m-brands > .main-head {
+    font-size: 4rem;
+    font-weight: lighter;
+    margin: 30px 0px 0px 0px;
+}
+.m-brands > .para {
+    font-size: 1.5rem;
+    color: #ffffffB3;
+    margin: 15px;
+}
+.b-image{ 
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 25px;
+}
+.b-btn{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    border-radius: 25px;
+    padding: 20px;
+    color: #ffffff;
+}
+.fnch-container {
+    background-color: #070707;
+    border: 0px;
+    height: 200vh;
+    padding-left: 200px;
+    
+}
+.fnch-child {
+    border: 0px;
+    height: 500px;
+    width: 80%;
+    padding: 30px;
+}
+.fgrand-child {
+    border: 0px;
+    padding: 30px;
+    width: 50%;
+    height: 450px;
+    color: #ffffff;
+    text-align: justify;
+    font-size: 1.5rem;
+}
+.p-red {
+    color: #ed1c24;
+}
+.p-grey {
+    color: #ffffffB3;
+}
+.direction-btn {
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 15px 10px;
+    border-radius: 25px;
+    color: #ffffff;
+    cursor: pointer;
+}
+.f-imgs {
+    height: 400px;
+    width: 550px;
+}
+.express-container {
+    height: 200vh;
+}
+.express-child {
+    border: 0px solid white;
+    width: 100%;
+    height: 250vh;
+    font-size: 1.5rem;
+}
+.express-gchild {
+    border: 0px solid white;
+    width: 500px;
+    height: 560px;
+    align-self: center;
+}
+.exp-imgs {
+    width: 450px;
+    height: 300px;
+    margin-left: 20px;
+}
+.m-head {
+    border: 0px solid white;
+    padding: 50px;
+    margin: 50px;
+}
+.intro-head {
+    font-size: x-large;
+    margin-top: 50px;
+    text-align: center;
+}
+.intro {
+    font-size: 1.8rem;
+    width: 90%;
+    text-align: center;
+    font-weight: lighter;
+}
+.ist-container {
+    border: 0px solid white;
+    height: 100vh;
+    width: 95%;
+}
+.istchild-ctn {
+    border: 0px solid white;
+    width: 850px;
+    height: 400px;
+    font-size: 1.8rem;
+    text-align:start;
+    align-self: start;
+    padding: 10px;
+}
+.snp-img {
+    width: 700px;
+    height: 390px;
+}
