@@ -38,6 +38,9 @@ body {
 .flex-wrap {
     flex-wrap: wrap;
 }
+.align-center {
+    align-items: center;
+}
 .gap-1 {
     gap: 5px;
 }
@@ -53,6 +56,23 @@ body {
 .gap-5 {
     gap: 30px;
 }
+.m-3 {
+    margin: 15px;
+}
+.m-4 {
+    margin: 20px;
+}
 .m-5 {
   margin: 25px;
+}
+.m-6 {
+    margin: 35px;
+}
+.width {
+    width: 600px;
+    height: 50px;
+    border-radius: 7px;  
+}
+.auto {
+    margin: auto;
 }

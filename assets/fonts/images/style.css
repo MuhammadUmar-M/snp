@@ -315,13 +315,13 @@ nav > a {
     font-size: 1.5rem;
 }
 .info-container {
-
+    border: 1px solid #ffffff;
     width: 70%;
     height: 70vh;
     margin: auto;
 }
 .info-child {
-    
+    border: 1px solid red;
     width: 630px;
     height: 600px;
     font-size: 1.8rem;
